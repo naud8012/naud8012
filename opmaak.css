@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(5, 155, 248);
+    background-color: rgb(248, 5, 216);
   }
   
   h1 {
@@ -48,7 +48,7 @@ body {
   }
   
   li a:hover:not(.active) {
-    background-color: rgb(6, 246, 250);
+    background-color: rgb(30, 250, 6);
   }
   
   .active {
